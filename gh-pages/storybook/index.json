@@ -1,0 +1,1 @@
+{"v":4,"entries":{"other--docs":{"id":"other--docs","title":"Other","name":"Docs","importPath":"./stories/Thing.stories.tsx","type":"docs","tags":["autodocs","docs"],"storiesImports":[]},"other--default":{"id":"other--default","title":"Other","name":"Default","importPath":"./stories/Thing.stories.tsx","tags":["autodocs","story"],"type":"story"}}}
